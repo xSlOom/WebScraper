@@ -21,3 +21,7 @@ Links count : 60
 Links without 'alt' attribut : 60
 Links with 'alt' attribut : 0
 ```
+The url can be changed on the JS file and the line (the last one) : 
+```
+init('http://illuxat.com');
+```
